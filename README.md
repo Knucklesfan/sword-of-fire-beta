@@ -1,4 +1,4 @@
-# sword-of-fire-beta
+# Sword of Fire Beta Builds
 A simple medieval text based adventure game with some RPG elements. 
 The latest builds are intended for me and developers only. As for I wanted this to be a project that everyone can see and commit to, I will release builds periodically.
 # How to run the game
