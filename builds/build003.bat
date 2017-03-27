@@ -4,7 +4,7 @@ title The Sword of Fire DEVELOPER COPY
 echo The Sword of Fire, written by Knucklesfan and given as a preview for code on the Knucklesfan Videos channel.
 echo WARNING: This game uses your computer clock to determine things such as time in game.
 echo A little warning, if you are a programmer, viewing this build, please avoid messing with %tempadd% during battle sequences. 
-echo This message will be removed once the game gets into beta.
+echo This message will be removed once the game gets into beta
 echo Also, if you are reading this, please remeber to leave comments on the code in this format:
 echo You are right now using a developer copy, and most of the things in here will most likely be cleaned up before release.
 echo Enter Name
